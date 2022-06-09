@@ -73,4 +73,5 @@ In this tutorial, we provide a comprehensive and organized tutorial on the state
 
 **[Liang Sun](https://scholar.google.com/citations?user=8JbrsgUAAAAJ&hl=en)** is currently a Senior Staff Engineer / Engineering Director at DAMO Academy, Alibaba Group, Bellevue, USA. He received B.S.(2003) from Nanjing University, and Ph.D.(2011) from Arizona State University, both in computer science. Dr. Sun has over 30 publications including 2 books in the fields of machine learning and data mining. His work on dimensionality reduction won the KDD 2010 Best Research Paper Award Honorable Mention, and won the Second Place in KDD Cup 2012 Track 2 Competition. He also won the First Place in 2022 ICASSP Grand Challenge (AIOps in Networks) Competition. At Alibaba Group, he is working on temporal data mining, including time series anomaly detection, forecasting, and their applications.
 
-
+## Related Tutorial
+- KDD 2022 Tutorial: [Robust Time Series Analysis and Applications: An Industrial Perspective](https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/)
